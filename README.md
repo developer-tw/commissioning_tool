@@ -1,4 +1,6 @@
 This tool is used to config all devices for your home.
+![main_screen](https://github.com/developer-tw/commissioning_tool/blob/main/main_screen.png)   
+![main_screen-1](https://github.com/developer-tw/commissioning_tool/blob/main/main_screen-1.png)   
+![add_device](https://github.com/developer-tw/commissioning_tool/blob/main/add_new_devices.png)
 
-![main_screen-1](https://github.com/developer-tw/commissioning_tool/assets/101781411/d4c81f26-1c6a-43e3-96d3-eba3b8c03fdf)   
 
